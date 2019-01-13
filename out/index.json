@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-01-13T17:45:58.898Z"
+    "modified": "2019-01-13T23:11:07.708Z"
   },
   "location": {
     "city": "Bristol",
@@ -199,7 +199,9 @@
         "skills": [
           "Python",
           "numpy",
-          "Tensorflow"
+          "Tensorflow",
+          "GPflow",
+          "GPy"
         ]
       },
       {

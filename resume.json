@@ -222,7 +222,7 @@
     {
       "name": "Machine Learning",
       "level": "",
-      "keywords": ["Python", "numpy", "Tensorflow"]
+      "keywords": ["Python", "numpy", "Tensorflow", "GPflow", "GPy"]
     },
     {
       "name": "Robotics",

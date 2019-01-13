@@ -191,6 +191,8 @@ skills:
       - Python
       - numpy
       - Tensorflow
+      - GPflow
+      - GPy
   -
     name: Robotics
     level: ""
