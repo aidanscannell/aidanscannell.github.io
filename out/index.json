@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-01-09T15:42:25.499Z"
+    "modified": "2019-01-13T17:45:58.898Z"
   },
   "location": {
     "city": "Bristol",
@@ -24,7 +24,7 @@
   "employment": {
     "history": [
       {
-        "position": "Hourly Paid Teacher",
+        "position": "Teaching Assistant",
         "employer": "University of Bristol",
         "summary": "Alongside my PhD studies I am a teaching assistant for the following courses:",
         "current": true,
@@ -34,7 +34,7 @@
         "highlights": [
           "Machine Learning COMS30007 - https://bit.ly/2C6UbKp",
           "Robotic Systems COMSM0012 - https://bit.ly/2LV7rpZ",
-          "Intelligent Software Systems"
+          "Intelligent Software Systems EMATM0042 - https://bit.ly/2Rn2mwx"
         ]
       },
       {
