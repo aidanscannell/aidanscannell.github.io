@@ -11,6 +11,7 @@
   "dependencies": {
     "./jsonresume-theme-elegant": "^1.12.1",
     "gemfile": "^1.1.0",
+    "jekyll": "^3.0.0-beta1",
     "jsonresume-theme-classy": "^1.0.9",
     "jsonresume-theme-elegant": "^1.12.1",
     "jsonresume-theme-kendall": "^0.1.19",
