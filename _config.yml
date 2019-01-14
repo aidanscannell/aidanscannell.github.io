@@ -1,2 +1,27 @@
 plugins:
   - jekyll-seo-tag
+
+title: Aidan Scannell
+
+description: Aidan Scannell's Resume and Portfolio
+
+url: https://aidanscannell.github.io/
+
+author: Aidan Scannell
+
+facebook:
+  app_id: 754390049
+  publisher: https://www.facebook.com/aidan.scannell
+  admins: 754390049
+
+logo:
+  ./aidan_portrait.jpeg
+
+social:
+  name: Ben Balter
+  links:
+    - https://www.facebook.com/aidan.scannell
+    - https://www.linkedin.com/in/aidan-scannell-82522789/
+    - https://github.com/aidanscannell
+    - https://keybase.io/benbalter
+    - https://sourcerer.io/aidanscannell
