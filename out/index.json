@@ -12,7 +12,7 @@
   },
   "meta": {
     "format": "FRESH@^1.0.0-beta",
-    "modified": "2019-01-13T23:11:07.708Z"
+    "modified": "2019-01-14T18:59:30.919Z"
   },
   "location": {
     "city": "Bristol",
@@ -119,9 +119,10 @@
         "start": "2005-01-01",
         "end": "2012-01-01",
         "curriculum": [
-          "Chemistry - A*",
-          "Mathematics - A*",
-          "Physics - A*"
+          "(A2 Level) Chemistry - A*",
+          "(A2 Level) Mathematics - A*",
+          "(A2 Level) Physics - A*",
+          "(AS Level) Design & Technology - A"
         ],
         "summary": "",
         "area": "",
@@ -157,10 +158,10 @@
         "start": "2015",
         "end": "2016",
         "url": "https://www.beracing.co.uk/",
-        "summary": "Each year, as part of Formula Student, students design, build and race an open-wheel race car at Silverstone.",
+        "summary": "Each year, as part of Formula Student, students design, build and race a single seat race car.",
         "highlights": [
           "Finished 2nd in the National Class 2 competition in 2013/2014, I was then selected as the Drivetrain lead.",
-          "This role improved my communication skills as I was be leading weekly presentations.",
+          "This role improved my communication skills as I was leading weekly presentations.",
           "I developed my leadership skills through setting realistic objectives, effectively allocating work to the appropriate team members and monitoring outcomes."
         ]
       },
@@ -171,7 +172,7 @@
         "start": "2014",
         "end": "2015",
         "url": "http://www.ubsc.co.uk/",
-        "summary": "add summary here",
+        "summary": "",
         "highlights": [
           "Organised multiple weekly training sessions, demonstrating my ability to plan and run events smoothly.",
           "Negotiated competitive prices for a growing member base within an inherently expensive sport.",
@@ -256,10 +257,16 @@
   },
   "recognition": [
     {
+      "title": "British University Snowboard Slalom Champion",
+      "date": "2018",
+      "from": "British Universities & College Sport",
+      "summary": "In the 2017/2018 season I won all National British University Slalom Competitions. I have also podiumed in several British University SnowboardX and Slopestyle competitions."
+    },
+    {
       "title": "Starting to Teach",
       "date": "2018",
       "from": "University of Bristol",
-      "summary": ""
+      "summary": "Acquired the knowledge and skills to establish myself as a confident, enthusiastic and effective teacherwho is able to engage, encourage and develop students' learning."
     },
     {
       "title": "Full Sporting Colours",
@@ -304,6 +311,12 @@
       "network": "GitHub",
       "url": "https://github.com/aidanscannell",
       "user": "aidanscannell"
+    },
+    {
+      "label": "sourcerer",
+      "network": "sourcerer",
+      "url": "https://sourcerer.io/aidanscannell",
+      "user": "sourcerer.io"
     }
   ]
 }

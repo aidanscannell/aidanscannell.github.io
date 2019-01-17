@@ -17,6 +17,10 @@ basics:
       network: GitHub
       username: aidanscannell
       url: 'https://github.com/aidanscannell'
+    -
+      network: sourcerer
+      username: sourcerer.io
+      url: 'https://sourcerer.io/aidanscannell'
 work:
   -
     company: 'University of Bristol'
@@ -95,17 +99,24 @@ education:
     area: ""
     studyType: A-Levels
     startDate: '2005-01-01'
+    summary: ""
     courses:
-      - 'Chemistry - A*'
-      - 'Mathematics - A*'
-      - 'Physics - A*'
+      - '(A2 Level) Chemistry - A*'
+      - '(A2 Level) Mathematics - A*'
+      - '(A2 Level) Physics - A*'
+      - '(AS Level) Design & Technology - A'
     endDate: '2012-01-01'
 awards:
+  -
+    title: 'British University Snowboard Slalom Champion'
+    date: '2018'
+    awarder: 'British Universities & College Sport'
+    summary: 'In the 2017/2018 season I won all National British University Slalom Competitions. I have also podiumed in several British University SnowboardX and Slopestyle competitions.'
   -
     title: 'Starting to Teach'
     date: '2018'
     awarder: 'University of Bristol'
-    summary: ""
+    summary: 'Acquired the knowledge and skills to establish myself as a confident, enthusiastic and effective teacherwho is able to engage, encourage and develop students'' learning.'
   -
     title: 'Full Sporting Colours'
     date: '2017'
@@ -157,10 +168,10 @@ volunteer:
     position: 'Technical Lead (Drivetrain)'
     website: 'https://www.beracing.co.uk/'
     startDate: '2015'
-    summary: 'Each year, as part of Formula Student, students design, build and race an open-wheel race car at Silverstone.'
+    summary: 'Each year, as part of Formula Student, students design, build and race a single seat race car.'
     highlights:
       - 'Finished 2nd in the National Class 2 competition in 2013/2014, I was then selected as the Drivetrain lead.'
-      - 'This role improved my communication skills as I was be leading weekly presentations.'
+      - 'This role improved my communication skills as I was leading weekly presentations.'
       - 'I developed my leadership skills through setting realistic objectives, effectively allocating work to the appropriate team members and monitoring outcomes.'
     endDate: '2016'
   -
@@ -168,7 +179,7 @@ volunteer:
     position: 'Snowboard Captain'
     website: 'http://www.ubsc.co.uk/'
     startDate: '2014'
-    summary: 'add summary here'
+    summary: ""
     highlights:
       - 'Organised multiple weekly training sessions, demonstrating my ability to plan and run events smoothly.'
       - 'Negotiated competitive prices for a growing member base within an inherently expensive sport.'
